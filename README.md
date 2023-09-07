@@ -26,11 +26,13 @@ Acesse a pasta no terminal utilizando o comando cd todo-list-angular e em seguid
 
 Com a aplicação em pleno funcionamento, vamos criar dois componentes via linha de comando que serão utilizados posteriormente para compor a nossa lista de tarefas. Para isso, rode os comandos:
 
+```
 <ul>
     <li>ng generate component todo-list</li>
     <li>ng generate componente todo-item</li>
 
 </ul>
+```
 
 ![image04](src/assets/images/image04.png)
 
